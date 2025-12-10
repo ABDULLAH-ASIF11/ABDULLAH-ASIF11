@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding tasks for basic projects implementation. 
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me? mail me on "abdullahaasifasifpervaiz@gmail.com"
+- 📫 How to reach me? mail me on "abdullahasifasifpervaiz@gmail.com"
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a knack for learning quirky languages and can hold a conversation in Pig Latin, Klingon, and even Elvish from "The Lord of the Rings."
 

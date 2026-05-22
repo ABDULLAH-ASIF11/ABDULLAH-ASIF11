@@ -1,12 +1,6 @@
-# ⚡ SYSTEM.TERMINAL.BOOTing... [Abdullah Asif]
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/207942e9-f723-493e-a7f8-14e2a400b103" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=00ffcc&height=200&section=header&text=ABDULLAH%20ASIF&fontSize=90&animation=fadeIn&fontColor=1d1d1d" width="100%" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ABDULLAH-ASIF11&label=SYSTEM%20ACCESS&color=00ffcc&style=flat" alt="visitor counter" />
-  </p>
-</div>
+
 
 ### 🛠️ [Kernel Architect // Full-Stack Engineer]
 **Solving complexity at $O(1)$ and building UI that doesn't suck.**
@@ -38,10 +32,9 @@
 ---
 
 ### 📊 System Stats
-> **Note:** Stats will populate as you push code to your public repositories!
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ABDULLAH-ASIF11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH-ASIF11&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULLAH-ASIF11&theme=tokyonight&hide_border=true" width="100%" alt="Abdullah's GitHub Streak" />
 </p>
 
 ---
@@ -79,3 +72,6 @@ while(alive) {
     optimize(); 
     if(bug) fix(); 
 }
+
+
+

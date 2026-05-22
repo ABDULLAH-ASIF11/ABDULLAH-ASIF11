@@ -13,10 +13,16 @@
 
 ---
 
+### 🎓 Academic Background
+- 🏛️ **BS Computer Science** | **FAST NUCES** (National University of Computer and Emerging Sciences)
+- 🎯 *Focusing on Systems Programming, OS Architecture, and Full-Stack Scalability.*
+
+---
+
 ### 🕵️ Execution Log
 - 🚀 **Currently Architecting:** Low-level Terminal OS Simulators and High-Concurrency Backend Systems.
-- 🧪 **Experimenting with:** Deep Memory Management in C++ and Reactive State Machines in the MERN stack.
-- 🎯 **Objective:** Building software that is as stable as a `static_cast` and as fast as a `raw_pointer`.
+- 🧪 **Experimenting with:** Deep Memory Management in C++ and Reactive State Machines.
+- 🎯 **Objective:** Building software as stable as a `static_cast` and as fast as a `raw_pointer`.
 
 ---
 
@@ -27,14 +33,15 @@
 | **Low-Level / Logic** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DSA](https://img.shields.io/badge/DSA-Aggressive-red?style=for-the-badge) |
 | **Frontend Core** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/ES6%2B-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **DevOps / Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **DevOps / Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ### 📊 System Stats
+> **Note:** Stats will populate as you push code to your public repositories!
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ABDULLAH-ASIF11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH-ASIF11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABDULLAH-ASIF11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH-ASIF11&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
 </p>
 
 ---
@@ -48,7 +55,7 @@
 
 ### 📝 Data Streams (Medium Articles)
 > **Latest Insight:** [Visit my Knowledge Base on Medium](https://medium.com/@abdullahasifasifpervaiz)
-*Check out my technical write-ups where I break down system architecture and modern web development.*
+*Breaking down system architecture and modern web development.*
 
 ---
 
